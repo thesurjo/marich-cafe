@@ -1,0 +1,22 @@
+:root {
+    --clr-neutral-1: hsl(0, 0%, 100%);
+    --clr-neutral-2: #D9232A;
+    --clr-neutral-3: #D9232A;
+    --clr-neutral-4: #D3AE49;
+    --font-1: 'Cormorant SC', serif;
+    --font-2: 'Great Vibes', cursive;
+
+    --transition-time-1: 300ms;
+    --transition-time-2: 500ms;
+
+    --border-thickness-1: 5px;
+    --border-thickness-2: 3px;
+    --border-thickness-3: 1px;
+    --border-thickness-4: 2px;
+
+    --line-height: 1.5;
+    --letter-spacing: 3px;
+
+    --wrapper-width: 90%;
+    --wrapper-max-width: 71.25rem;
+}
