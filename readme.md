@@ -7,7 +7,7 @@
 🌟 **Live Demo** 🌟  
 [March Café](https://marich-cafe.netlify.app/)
 
-Welcome to **March Café** – a delightful online showcase where comfort meets flavor. Discover a cozy, 10-page demo website crafted to reflect the perfect ambiance for spending quality time with loved ones over tasty snacks.
+Welcome to **March Café** – a delightful online showcase where comfort meets flavor. Discover a cozy, demo website crafted to reflect the perfect ambiance for spending quality time with loved ones over tasty snacks.
 
 ## 🚀 Tech Stack 🚀
 This website was built using a blend of modern tools and technologies:
