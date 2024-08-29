@@ -5,7 +5,7 @@
 </p>
 
 🌟 **Live Demo** 🌟  
-[March Café](https://march-cafe.vercel.app)
+[March Café](https://marich-cafe.netlify.app/)
 
 Welcome to **March Café** – a delightful online showcase where comfort meets flavor. Discover a cozy, 10-page demo website crafted to reflect the perfect ambiance for spending quality time with loved ones over tasty snacks.
 
@@ -20,7 +20,7 @@ This website was built using a blend of modern tools and technologies:
 ## 🔑 Open Source and Customization 🔑
 This project is fully open-source! The codebase is available on GitHub, allowing developers and enthusiasts to clone, explore, and adapt it. You can customize the website's structure, content, and styling to create your own digital masterpiece.
 
-GitHub Repository: [https://github.com/thesurjo/marich-cafem/]
+GitHub Repository: [https://github.com/thesurjo/marich-cafe/]
 
 ## 💻 Get Started 💻
 Ready to explore March Café? Follow these steps to run the project on your local machine.
@@ -32,7 +32,7 @@ Ensure you have the following tools installed:
      
 ### Clone the Repository
 ```bash
-git clone https://github.com/ShariarSheikh/resturant-website.git
+git clone https://github.com/thesurjo/marich-cafe.git
 ```
 
 ### Install Dependencies
